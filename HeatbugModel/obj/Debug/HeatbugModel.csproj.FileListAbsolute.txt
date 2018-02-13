@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\bin\Debug\HeatbugModel.exe.config
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\bin\Debug\HeatbugModel.exe
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\bin\Debug\HeatbugModel.pdb
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.HeatWorld.resources
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.exe
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.pdb
+C:\Users\Administrator\Desktop\HeatbugModel\HeatbugModel\obj\Debug\HeatbugModel.HeatbugConsole.resources
